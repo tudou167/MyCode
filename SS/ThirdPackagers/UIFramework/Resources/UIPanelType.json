@@ -1,0 +1,40 @@
+{
+    "infoList": [
+        {
+            "panelTypeString": "StartMain",
+            "path": "UIPanel/StartMainPanel"
+        },
+        {
+            "panelTypeString": "CreatePlayer",
+            "path": "UIPanel/CreatePlayerPanel"
+        },
+        {
+            "panelTypeString": "Game",
+            "path": "UIPanel/GamePanel"
+        },
+        {
+            "panelTypeString": "walkthrough",
+            "path": "UIPanel/walkthroughPanel"
+        },
+        {
+            "panelTypeString": "Info",
+            "path": "UIPanel/InfoPanel"
+        },
+        {
+            "panelTypeString": "ItemCell",
+            "path": "Prefabs/UI/ItemCell"
+        },
+        {
+            "panelTypeString": "ItemTypeCell",
+            "path": "Prefabs/UI/ItemTypeCell"
+        },
+        {
+            "panelTypeString": "MainMenuMVC",
+            "path": "Prefabs/UI/MainMenuMVC"
+        },
+        {
+            "panelTypeString": "Package",
+            "path": "Prefabs/UI/Package"
+        }
+    ]
+}
